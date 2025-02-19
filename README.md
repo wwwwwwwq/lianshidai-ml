@@ -3,4 +3,4 @@
 
 ---
 
-**注：**  题解和感想什么的在lianshidai-ml-1.py
+**注：**  题解和感想什么的在lianshidai-ml-1.md
